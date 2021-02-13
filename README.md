@@ -3,7 +3,7 @@ The common sense code of conduct.
 
 ## Content
 
-[The common sense code of conduct](https://github.com/replicadse/cscoc/edit/master/CODE_OF_CONDUCT.md)
+[The common sense code of conduct](https://github.com/replicadse/cscoc/blob/master/CODE_OF_CONDUCT.md)
 
 ## Why
 
